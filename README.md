@@ -37,10 +37,10 @@ SEC ve DED özelliklerini destekleyen bir python uygulamasıdır.
 -  Hata sonrası sendrom kelimesi
 -  Before / After parite bilgileri
 -  Hata analizi:
--    **"Data has not changed"** → kontrol bitlerinde hata var, veri değişmemiş
--    **"Data has changed"** → veri kısmında hata var ve düzeltildi
--    **"Double Error Detected"** → çift hata algılandı
--    **"Nothing has changed"** → hiç hata yok
+  -    **"Data has not changed"** → kontrol bitlerinde hata var, veri değişmemiş
+  -    **"Data has changed"** → veri kısmında hata var ve düzeltildi
+  -    **"Double Error Detected"** → çift hata algılandı
+  -    **"Nothing has changed"** → hiç hata yok
 
 ##Teknik Detaylar
 Hamming Kod Hesaplama
