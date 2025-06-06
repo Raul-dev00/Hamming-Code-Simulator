@@ -29,7 +29,7 @@ SEC ve DED özelliklerini destekleyen bir python uygulamasıdır.
 -  **Memory** kısmında hatalı bit(leri) isteğe bağlı olarak değiştirebilirsiniz (manuel hata simülasyonu için)
 -  ``Control`` butonuna basarak hataları tespit edin ve raporunu görüntüleyin
 
-##Çıktılar
+## Çıktılar
 -  Program şu bilgileri sağlar:
 -  Orijinal veri
 -  Oluşturulan Hamming kodu (memory)
@@ -42,7 +42,7 @@ SEC ve DED özelliklerini destekleyen bir python uygulamasıdır.
   -    **"Double Error Detected"** → çift hata algılandı
   -    **"Nothing has changed"** → hiç hata yok
 
-##Teknik Detaylar
+## Teknik Detaylar
 Hamming Kod Hesaplama
 -  Parite bitleri 2^n pozisyonlarında yer alır:
 -    8-bit : pozisyon 1, 2, 4, 8
